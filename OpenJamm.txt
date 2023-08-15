@@ -1,0 +1,118 @@
+----------------------------------------------------------------------------------------
+				OPENJAMM 
+----------------------------------------------------------------------------------------
+
+
+
+Q1.Which Python Module Use in this Project ? 
+
+----------------------------------------------------------
+	-> Django Core Modules 
+----------------------------------------------------------
+
+-> django:- Its a Framework of its create a website 	
+
+
+-> Django.contrib.auth:- Its provide user Authentication and Authorization Functionlity 
+
+
+-> Django.contrib.adimn : Its provide builtin Crud Operation Table for managing table 
+
+-> Databases and Models : - Its provide tools for intracting with Databases 
+
+-> Django.db.models :- Its Allows to define out data models Using python classes 
+
+----------------------------------------------------------------------------------------
+				URL Routing and View  
+----------------------------------------------------------------------------------------
+
+-> Djnago.urls :- Its provide and Handel the routing and mapping to view Function 
+
+
+-> Djnago.views :-  Its allow to contain various Built in function and classes 
+
+
+----------------------------------------------------------------------------------------
+				Templatis and Renderings  
+----------------------------------------------------------------------------------------
+
+
+
+-> Django.templates :Its provides templates rendering capability like we can intract with html css js or webpages 
+
+-> Django.template.loader :- Loades templaes  from various sources 
+
+----------------------------------------------------------------------------------------
+				Static and Medis Files   
+----------------------------------------------------------------------------------------
+
+
+-> Django.contrib.staticfiles :- Its provide to connect dynamically  the CSS . Javascript and Image file to intriact with webpages
+
+
+-> django.core.files :- 
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+----------------------------------------------------------------------------------------
+				Descriptions Of The OPENJAMM PROJECT  
+----------------------------------------------------------------------------------------
+
+
+
+1. Its a website here  people can create Openjam Event or musical events 
+
+-> i have work in User module : like If a user Come to website first showing shignup and login  button
+
+-> first he/she create her/his  account like fill the signup form therer available field like email,
+name , contact ,age, password  after fill the form he have receive a otp in  email or cotact  then he/she submit  the otp if its correct 
+its succesfully created account the openjamm website 
+
+-> The going to login page and submit  there  email and password and login it 
+
+->After Login  redirect to home page the he can go profile and set her/ his profile add her skills address conact etc.
+
+-> then going to event page there availbale many people and he can intriact each other there avalble to conversions 
+through message and also contact avialable he can call also and create event 
+
+-> if the user want to see nearest place event and also search the newrest people in therer he can connect this people through message and contact 
+
+-> If any user create openjam event any places there available many location  and he can search also and give any time and how many 
+people are participents there he can select there 
+
+-> if the event creater want to update  the event details  then he can also update that 
+
+->  there also have notification if any user forget the event then hhe receive notification befor 1 hour or 2 hour its also  one type of alarm
+
+-> thats it about the  My project 
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
